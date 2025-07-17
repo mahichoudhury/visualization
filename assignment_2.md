@@ -22,6 +22,11 @@
 
       This graphic aims to visualize birthdays by individual dates, specifically in the US geography. The visual (heat map) of the calendar makes it very simple to grasp the intended story.
       1. The graph provides an appropriate scale for the colour grading
+      2. The graphic text makes it easy to draw a conclusion - the months in a coloumn and the days as a row
+      3. The typeface and font sizing is appropriate for the visuals
+
+      The main reason why this diagram is an effective visual is becasue the end-user is able to grasp the intended message that is meant to be convery'd and does not leave much room for incorrect interpretation. It also allows for that conclusion to be drawn fairly quickly. 
+      The visual meet the 3 standards - purpose (show birth data by dat), audience (general public), and medium (simplistic visual) that make it a great visualization vs a bad one.
          
 
 
